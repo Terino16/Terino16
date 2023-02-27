@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Dube</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Wbe3 and solidity**
+- 🌱 I’m currently learning **Web3 and solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Terino16?tab=repositories](https://github.com/Terino16?tab=repositories)
 
