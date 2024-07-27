@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anubhav Dube</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Framer Motion and Three.js**
+- 🌱 I’m currently learning System Design and grinding DSA
 
 - 👨‍💻 All of my projects are available at [https://github.com/Terino16?tab=repositories](https://github.com/Terino16?tab=repositories)
-
-- 💬 Ask me about **React ,Solidity ,Sanity**
 
 - 📫 How to reach me **anubhav.dube1602@gmail.com**
 
